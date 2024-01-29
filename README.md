@@ -2,15 +2,16 @@
 L'extension Chrome Take A Stretch est un outil polyvalent conçu pour aider les utilisateurs à optimiser leur temps de travail tout en prenant soin de leur bien-être physique. Le projet a été développé par une équipe de trois personnes, avec une collaboration étroite à travers des sessions de pair programming.
 
 # Aperçu du projet : 
-![extension 4](https://github.com/Aisseta/Extension-Take-a-Stretch/assets/85037165/6f21c40d-6d81-44e1-b9e6-b8fa5e4c4a9a)
 ![extension 1 ](https://github.com/Aisseta/Extension-Take-a-Stretch/assets/85037165/6de70ba1-8a15-4ea5-a8b8-40843afed908)
 ![extension 2](https://github.com/Aisseta/Extension-Take-a-Stretch/assets/85037165/ec0e3bf6-5371-42cd-8ed9-568c8797c8ac)
+![extension 3](https://github.com/Aisseta/Extension-Take-a-Stretch/assets/85037165/ba1d3069-b72b-46dc-858a-8a6e2fefe741)
 
 ## Fonctionnalités Principales
 ### Timer en Background : 
 L'extension intègre un timer en arrière-plan qui permet aux utilisateurs de gérer efficacement leur temps de travail. Il fonctionne discrètement, offrant une expérience utilisateur non intrusive.
 
-![extension 3](https://github.com/Aisseta/Extension-Take-a-Stretch/assets/85037165/ba1d3069-b72b-46dc-858a-8a6e2fefe741)
+![extension 4](https://github.com/Aisseta/Extension-Take-a-Stretch/assets/85037165/6f21c40d-6d81-44e1-b9e6-b8fa5e4c4a9a)
+
 
 ### Musique d'Accompagnement : 
 Les utilisateurs ont la possibilité de lancer de la musique directement depuis l'extension pour créer une ambiance propice à la concentration.
