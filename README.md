@@ -1,4 +1,5 @@
 # Description du Projet
+### URL : https://aisseta.github.io/Extension-Take-a-Stretch/#home
 L'extension Chrome Take A Stretch est un outil polyvalent conçu pour aider les utilisateurs à optimiser leur temps de travail tout en prenant soin de leur bien-être physique. Le projet a été développé par une équipe de trois personnes, avec une collaboration étroite à travers des sessions de pair programming.
 
 # Aperçu du projet : 
